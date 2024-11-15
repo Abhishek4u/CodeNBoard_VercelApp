@@ -1,0 +1,28 @@
+{
+  "name": "whiteboard",
+  "version": "1.0.0",
+  "description": "WhiteBoard with chat functionality",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nanoid": "^3.1.12",
+    "socket.io": "^4.8.1"
+  },
+  "scripts": {
+    "build": "node app.js",
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishek4u/WhiteBoard.git"
+  },
+  "keywords": [
+    "whiteboard"
+  ],
+  "author": "Abhishek Darouch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhishek4u/WhiteBoard/issues"
+  },
+  "homepage": "https://github.com/Abhishek4u/WhiteBoard#readme"
+}
